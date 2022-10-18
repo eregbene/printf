@@ -1,5 +1,5 @@
 .TH man_3_printf "18th October, 2022" "hk1.0" "_printf man page"
-.SH AUTHOR "EREGBENE BENEDICT ELAYE" ""
+.SH AUTHOR "EREGBENE BENEDICT ELAYE" "EYATU PHILIP ESAMU"
 .SH NAME
 .B _printf
 \- function to print formatted output of arguments
